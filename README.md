@@ -10,20 +10,20 @@
 
 ## Beautifiers And Minifiers
 
-[CSS Beautifier](http://beautifytools.com/css-beautifier.php)
-[CSS Minifier](http://beautifytools.com/css-minifier.php)
-[HTML Beautifier](http://beautifytools.com/html-beautifier.php)
-[HTML Minifier](http://beautifytools.com/html-minifier.php)
-[Javascript Beautifier](http://beautifytools.com/javascript-beautifier.php)
-[Javascript Minifier](http://beautifytools.com/javascript-minifier.php)
-[Javascript Obfuscator](http://beautifytools.com/javascript-obfuscator.php)
-[JSON Beautifier](http://beautifytools.com/json-beautifier.php)
-[JSON Minifier](http://beautifytools.com/json-minifier.php)
-[OPML Beautifier](http://beautifytools.com/opml-beautifier.php)
-[OPML Minifier](http://beautifytools.com/opml-minifier.php)
-[PHP Beautifier](http://beautifytools.com/php-beautifier.php)
-[XML Beautifier](http://beautifytools.com/xml-beautifier.php)
-[XML Minifier](http://beautifytools.com/xml-minifier.php)
+- [CSS Beautifier](http://beautifytools.com/css-beautifier.php)
+- [CSS Minifier](http://beautifytools.com/css-minifier.php)
+- [HTML Beautifier](http://beautifytools.com/html-beautifier.php)
+- [HTML Minifier](http://beautifytools.com/html-minifier.php)
+- [Javascript Beautifier](http://beautifytools.com/javascript-beautifier.php)
+- [Javascript Minifier](http://beautifytools.com/javascript-minifier.php)
+- [Javascript Obfuscator](http://beautifytools.com/javascript-obfuscator.php)
+- [JSON Beautifier](http://beautifytools.com/json-beautifier.php)
+- [JSON Minifier](http://beautifytools.com/json-minifier.php)
+- [OPML Beautifier](http://beautifytools.com/opml-beautifier.php)
+- [OPML Minifier](http://beautifytools.com/opml-minifier.php)
+- [PHP Beautifier](http://beautifytools.com/php-beautifier.php)
+- [XML Beautifier](http://beautifytools.com/xml-beautifier.php)
+- [XML Minifier](http://beautifytools.com/xml-minifier.php)
 
 ## Code Editors
 
