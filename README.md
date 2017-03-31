@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Beautify Tools
+# Beautify Tools
 
 Collection of free online tools that I have been using for a while. I've found them useful and I hope that other users and developers find them useful too.
 
@@ -34,6 +34,14 @@ Collection of free online tools that I have been using for a while. I've found t
 ## Cryptography
 
 ## CSS Preprocessors
+
+- [LESS Compiler](http://beautifytools.com/less-compiler.php)
+- [SCSS Compiler](http://beautifytools.com/scss-compiler.php)
+- [SASS Compiler](http://beautifytools.com/sass-compiler.php)
+- [Stylus Compiler](http://beautifytools.com/stylus-compiler.php)
+- [CSS To LESS Converter](http://beautifytools.com/css-to-less-converter.php)
+- [CSS To SCSS Converter](http://beautifytools.com/css-to-scss-converter.php)
+- [CSS To Stylus Converter](http://beautifytools.com/css-to-stylus-converter.php)
 
 ## IP Tools
 
