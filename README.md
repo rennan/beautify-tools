@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="http://gulpjs.com">
+  <a href="http://beautifytools.com/">
     <img width="325" height="260" src="https://github.com/rennan/beautify-tools/blob/master/logo.png">
   </a>
 </p>
 
 ## Beautify Tools
 
-- Collection of free online tools that I have been using for a while. I've found them useful and I hope that other users and developers find them useful too.
+Collection of free online tools that I have been using for a while. I've found them useful and I hope that other users and developers find them useful too.
 
 ## Beautifiers And Minifiers
 
